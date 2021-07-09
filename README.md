@@ -11,6 +11,7 @@ const Steps = {
     7: CHECK ACTIVATION STATUS
 }
 ```
+[](https://cdn.discordapp.com/attachments/840211432998043700/862942197585412096/image.png)
 > **By**: Avinash 
 
 > **Host**:   kms8.msguides.com
